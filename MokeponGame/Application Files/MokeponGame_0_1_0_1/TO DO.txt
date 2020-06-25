@@ -1,0 +1,21 @@
+﻿TO DO:
+MANAGERS:
+- Sound Manager + MUSIC
+
+UI:
+- Pokedex
+- Bag
+
+GAME MAP:
+- better tile sheets
+- better maps, Map Editor (or different way to make maps)
+- Objects:
+   - PokemonStorage
+- NPC
+
+POKEMON:
+- more abilities
+- more pokemons
+
+BATTLE:
+- pokemon states (poisoned, burnt, etc.)

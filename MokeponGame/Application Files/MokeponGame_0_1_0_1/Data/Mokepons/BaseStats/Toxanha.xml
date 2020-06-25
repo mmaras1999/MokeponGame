@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mokepon>
+  <DefaultName>Toxanha</DefaultName>
+  <MaxHP>40</MaxHP>
+  <ATK>40</ATK>
+  <DEF>35</DEF>
+  <SP_ATK>50</SP_ATK>
+  <SP_DEF>100</SP_DEF>
+  <SPD>70</SPD>
+
+  <Type1>WATER</Type1>
+  <Type2>POISON</Type2>
+
+  <EvolutionName>None</EvolutionName>
+  <EvolutionLevel>-1</EvolutionLevel>
+  
+  <AbilityNames>
+    <AbilityName>Bite</AbilityName>
+    <AbilityName>Water Splash</AbilityName>
+    <AbilityName>Absorb</AbilityName>
+  </AbilityNames>
+</Mokepon>

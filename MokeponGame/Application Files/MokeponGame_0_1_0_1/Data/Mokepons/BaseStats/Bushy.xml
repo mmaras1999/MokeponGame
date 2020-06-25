@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mokepon>
+  <DefaultName>Bushy</DefaultName>
+  <MaxHP>45</MaxHP>
+  <ATK>30</ATK>
+  <DEF>60</DEF>
+  <SP_ATK>65</SP_ATK>
+  <SP_DEF>65</SP_DEF>
+  <SPD>45</SPD>
+
+  <Type1>GRASS</Type1>
+  <Type2>GROUND</Type2>
+
+  <EvolutionName>None</EvolutionName>
+  <EvolutionLevel>-1</EvolutionLevel>
+  
+  <AbilityNames>
+    <AbilityName>Scratch</AbilityName>
+    <AbilityName>Harden</AbilityName>
+  </AbilityNames>
+</Mokepon>

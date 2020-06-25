@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <Name>Cleansing Potion</Name>
+  <Cost>50</Cost>
+  <AbilityName>Restore</AbilityName>
+  <Description>Potion restores Mokepon's statistics to normal (clears both buffs and debuffs)</Description>
+</Item>
