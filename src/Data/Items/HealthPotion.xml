@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <Name>Health Potion</Name>
+  <Cost>100</Cost>
+  <AbilityName>InstantHeal</AbilityName>
+  <Description>Restores up to 25 health points</Description>
+</Item>

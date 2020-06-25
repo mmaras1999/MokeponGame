@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mokepon>
+  <DefaultName>Candle</DefaultName>
+  <MaxHP>40</MaxHP>
+  <ATK>45</ATK>
+  <DEF>35</DEF>
+  <SP_ATK>30</SP_ATK>
+  <SP_DEF>40</SP_DEF>
+  <SPD>50</SPD>
+
+  <Type1>FLYING</Type1>
+  <Type2>FIRE</Type2>
+
+  <EvolutionName>None</EvolutionName>
+  <EvolutionLevel>-1</EvolutionLevel>
+  
+  <AbilityNames>
+    <AbilityName>Bite</AbilityName>
+    <AbilityName>Fire Blast</AbilityName>
+    <AbilityName>Growl</AbilityName>
+  </AbilityNames>
+</Mokepon>

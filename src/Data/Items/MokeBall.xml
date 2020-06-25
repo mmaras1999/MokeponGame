@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <Name>MokeBall</Name>
+  <Cost>100</Cost>
+  <AbilityName>MokeBallCatch</AbilityName>
+  <Description>Used to catch wild Mokepons</Description>
+</Item>

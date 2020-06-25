@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mokepon>
+  <DefaultName>FrostBite</DefaultName>
+  <MaxHP>40</MaxHP>
+  <ATK>50</ATK>
+  <DEF>30</DEF>
+  <SP_ATK>65</SP_ATK>
+  <SP_DEF>65</SP_DEF>
+  <SPD>60</SPD>
+
+  <Type1>ICE</Type1>
+  <Type2>FLYING</Type2>
+
+  <EvolutionName>None</EvolutionName>
+  <EvolutionLevel>-1</EvolutionLevel>
+  
+  <AbilityNames>
+    <AbilityName>Scratch</AbilityName>
+    <AbilityName>Slowing Cold</AbilityName>
+    <AbilityName>Blizzard</AbilityName>
+  </AbilityNames>
+</Mokepon>
